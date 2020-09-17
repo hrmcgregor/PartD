@@ -1,3 +1,8 @@
-Hello my name is Hamish McGregor /n
-My Fovourate colour is Red /n
-my favourate mode of transport is by airoplane /n
+Hello my name is Hamish McGregor
+
+My Fovourate colour is Red
+
+my favourate mode of transport is by airoplane
+
+The best of the week is friday
+
